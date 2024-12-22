@@ -22,8 +22,8 @@ let multiplication :f32=x*y;
 let divide :f32=x/y;
 
 println!("sum is {sum}");
-println!("sum is {substraction}");
-println!("sum is {multiplication}");
-println!("sum is {divide}");
+println!("subsctractionis {substraction}");
+println!("multiplication is {multiplication}");
+println!("divide is {divide}");
 
 }
